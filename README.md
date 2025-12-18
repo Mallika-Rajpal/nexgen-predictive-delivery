@@ -32,6 +32,9 @@ The **Predictive Delivery Command Center** is an interactive Streamlit applicati
 
 The platform combines **rule-based intelligence** (for transparency) with **machine learning** (for predictive accuracy).
 
+Live Demo: https://nexgen-predictive-delivery-l3cbmfg6tp5khlkkd6ramd.streamlit.app/
+
+
 ---
 
 ##  Key Features
