@@ -102,7 +102,7 @@ Operational Dashboards & Insights
 
 ---
 
-## 📈 Business Impact
+## Business Impact
 
 - **15–20% potential reduction** in delay-related operational costs  
 - Improved customer experience through proactive handling  
@@ -113,7 +113,7 @@ The platform enables NexGen to prioritize actions based on **risk + ROI**, not i
 
 ---
 
-## 🧪 Tech Stack
+## Tech Stack
 
 - **Python**
 - **Streamlit** – Interactive dashboard  
@@ -123,25 +123,25 @@ The platform enables NexGen to prioritize actions based on **risk + ROI**, not i
 
 ---
 
-## ▶️ How to Run Locally
+##  How to Run Locally
 
 ### 1️⃣ Clone the repository
 ```bash
 git clone <your-repo-url>
 cd nexgen-logistics
-
+```
 ### 2️⃣ Install dependencies
 ```bash
 pip install -r requirements.txt
-
+```
 ### 3️⃣ Run the application
 ```bash
 streamlit run app.py
 The application will open automatically in your default web browser.
-
+```
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 - Automated carrier reassignment  
 - What-if simulation (carrier / priority swap)  
@@ -151,7 +151,7 @@ The application will open automatically in your default web browser.
 
 ---
 
-## 🏁 Conclusion
+##  Conclusion
 
 The **NexGen Predictive Delivery Command Center** demonstrates how logistics data can be transformed into **actionable intelligence**.
 
