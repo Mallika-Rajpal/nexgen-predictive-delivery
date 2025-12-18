@@ -334,7 +334,7 @@ st.dataframe(ml_risk_orders, use_container_width=True)
 # -------------------------------------------------
 # COST IMPACT CALCULATOR
 # -------------------------------------------------
-st.markdown("## 💰 Cost Impact Analysis")
+st.markdown("## Cost Impact Analysis")
 
 # Parameters (adjustable assumptions)
 avoidable_cost_pct = st.slider(
