@@ -127,7 +127,7 @@ The platform enables NexGen to prioritize actions based on **risk + ROI**, not i
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Mallika-Rajpal/nexgen-predictive-delivery.git
 cd nexgen-logistics
 ```
 ### 2️⃣ Install dependencies
